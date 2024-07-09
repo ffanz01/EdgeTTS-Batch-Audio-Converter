@@ -1,4 +1,3 @@
-Certainly! Below is a structured README file that describes each file and directory in your project, along with instructions on how to run the main Python script. You can copy and paste this into your `README.md` file.
 
 ---
 
